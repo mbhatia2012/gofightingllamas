@@ -1,0 +1,9 @@
+div.center {
+    align-items: center;
+    text-align: center;
+    justify-content: center ;
+}
+
+body{ 
+    background-image: url(/img/maltipoodog.webp);
+}
